@@ -25,7 +25,7 @@ SECRET_KEY = 'xrg4x-9rr$cv_no=k^ra-29+24(2-i+fu=q0bb+w)m1z6=ap)4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://temporarydjangoapp-myproject.192.168.99.100.nip.io/']
+ALLOWED_HOSTS = ['temporarydjangoapp-myproject.192.168.99.100.nip.io/']
 
 
 # Application definition
